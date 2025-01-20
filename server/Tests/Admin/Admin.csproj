@@ -3,8 +3,12 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <LangVersion>latest</LangVersion>
-    <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Com.SomeGameCorp.Bylinjen.Tests.Admin</RootNamespace>
+    <AssemblyName>Com.SomeGameCorp.Bylinjen.Tests.Admin</AssemblyName>
+    
   </PropertyGroup>
 
   <ItemGroup>

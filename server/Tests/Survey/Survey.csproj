@@ -3,7 +3,9 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <LangVersion>latest</LangVersion>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Com.SomeGameCorp.Bylinjen.Tests.Survey</RootNamespace>
+    <AssemblyName>Com.SomeGameCorp.Bylinjen.Tests.Survey</AssemblyName>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
