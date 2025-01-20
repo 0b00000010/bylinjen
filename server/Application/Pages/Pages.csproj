@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Com.SomeGameCorp.Bylinjen.Application.Pages</RootNamespace>
+    <AssemblyName>Com.SomeGameCorp.Bylinjen.Application.Pages</AssemblyName>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 

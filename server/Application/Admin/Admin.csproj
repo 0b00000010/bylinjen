@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Com.SomeGameCorp.Bylinjen.Application.Admin</RootNamespace>
+    <AssemblyName>Com.SomeGameCorp.Bylinjen.Application.Admin</AssemblyName>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 

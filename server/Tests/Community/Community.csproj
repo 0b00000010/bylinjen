@@ -2,8 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <LangVersion>latest</LangVersion>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>    
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Com.SomeGameCorp.Bylinjen.Tests.Community</RootNamespace>
+    <AssemblyName>Com.SomeGameCorp.Bylinjen.Tests.Community</AssemblyName>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
